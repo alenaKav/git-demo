@@ -1,0 +1,6 @@
+file.log
+fki
+*.db
+*.log
+/target
+/bin
